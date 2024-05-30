@@ -1,6 +1,6 @@
 # Hi there, I'm Deval 👋
 
-Welcome to my GitHub profile! I'm a passionate computer engineer specializing full-stack web applications. Here's a bit more about me:
+Welcome to my GitHub profile! I'm a passionate computer engineer specializing in full-stack web applications. Here's a bit more about me:
 
 ## 🚀 About Me
 
