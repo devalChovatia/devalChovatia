@@ -26,7 +26,7 @@ I am currently pursuing a Bachelor of Applied Science (BASc) in Computer Enginee
   - Firebase
   - MongoDB
   - AzureSQL Database
-  - Sequelize
+  - SQL
 
 ## 🎓 Education
 
