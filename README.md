@@ -4,7 +4,9 @@ Welcome to my GitHub profile! I'm a passionate computer engineer specializing in
 
 ## 🚀 About Me
 
-I am currently pursuing a Bachelor of Applied Science (BASc) in Computer Engineering at the University of Ottawa.
+Been programming for about 4 years now and creating many projects from low level, such as creating a game clone for flappy bird using pygame library to higher level projects such as multiple full stack applications. 
+
+Currently I'm learning Spring with Java along with Kuberenetes with Docker. Stay tuned for upcoming projects!
 
 ## 🛠 Technical Skills
 
@@ -21,18 +23,18 @@ I am currently pursuing a Bachelor of Applied Science (BASc) in Computer Enginee
 - **Backend**: 
   - Node
   - Express
+  - FastAPI
 
 - **Databases**: 
   - Firebase
   - MongoDB
   - AzureSQL Database
-  - SQL
 
 ## 🎓 Education
 
 **Bachelor of Applied Science (BASc) Computer Engineering**  
 University of Ottawa | Ottawa, ON  
-*Expected Graduation Date: Dec 2026*
+*Expected Graduation Date: Jan 2027*
 
 **Relevant Courses**: 
 - Intro to Computing I & II
